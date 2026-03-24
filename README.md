@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1a1a2e&height=220&section=header&text=🤝%20Diversidade%2C%20Equidade%20%26%20Inclusão&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=RET%20Tecnologia%20•%20DEI%20Framework%202026&descSize=14&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+  <a href="https://rettecnologia.org">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&background=0A0A0A&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%A4%9D+Diversidade%2C+Equidade+%26+Inclus%C3%A3o;RET+Tecnologia+%E2%80%A2+DEI+Framework+2026" alt="Header" />
+  </a>
 </p>
 
 <p align="center">
@@ -42,7 +44,7 @@
 
 Na **RET Tecnologia**, operamos com a convicção de que times diversos tomam decisões melhores, **e a ciência comprova**. Nosso compromisso vai além de cotas ou eventos anuais — é um **framework estrutural** integrado em cada processo, do recrutamento ao deploy.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%" alt="divider" />
+---
 
 ## 📈 A Evidência Científica
 
@@ -189,10 +191,6 @@ Contribuições são bem-vindas! Quer sugerir práticas, compartilhar experiênc
 </table>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1a1a2e&height=120&section=footer&text=&fontSize=0" width="100%" alt="Footer" />
-</p>
 
 <p align="center">
   <sub>
